@@ -114,21 +114,8 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithish687894/nithish687894/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithish687894/nithish687894/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nithish687894/nithish687894/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-> 💡 *To enable the snake animation, add the [Snake workflow](https://github.com/Platane/snk) to your repo's GitHub Actions.*
-
----
 
 ## 🏴 CTF Platforms
 
