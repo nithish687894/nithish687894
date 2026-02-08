@@ -57,8 +57,6 @@
 | 🥇 **National CTF Finalist** | Competed at the national level in Capture The Flag |
 | 🌐 **Web Exploitation** | Specialized in web-based attack vectors |
 | 🔓 **Bug Hunter** | Finding vulnerabilities in web applications |
-| 🛡️ **Security Researcher** | Offensive security & penetration testing |
-
 </div>
 
 ---
