@@ -20,7 +20,7 @@
 └─$ cat about.txt
 
   Name       : Nithishkumar S
-  Role       : Web Exploitation Specialist
+  Role       : Web Exploitation Player
   Level      : CTF National Player 🏆
   Focus      : Breaking Web Apps | Finding Vulns | Capturing Flags
   Status     : Always Hacking 👾
