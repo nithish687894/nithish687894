@@ -37,7 +37,7 @@
 
   Name       : Nithishkumar S
   Role       : Web Exploitation Specialist
-  Level      : CTF National Finalist 🏆
+  Level      : CTF National Player 🏆
   Focus      : Breaking Web Apps | Finding Vulns | Capturing Flags
   Status     : Always Hacking 👾
 ```
@@ -170,7 +170,7 @@
   │                                                             │
   │   "Hack the planet. One vulnerability at a time." 🌍💻     │
   │                                                             │
-  │         ⚡ National CTF Finalist | Web Exploiter ⚡         │
+  │         ⚡  CTF Player | Web Exploiter ⚡         │
   │                                                             │
   └─────────────────────────────────────────────────────────────┘
 ```
