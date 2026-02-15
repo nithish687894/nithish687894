@@ -103,10 +103,8 @@
 └─$ ls -la
 
   📂 Java_OOP           → Object-Oriented Programming with Java
-  📂 Web_Development    → Full Stack Development
   📂 Advanced_WebSec    → Advanced Web Application Security
   📂 CTF_Toolkit        → Building automated exploitation tools
-  📂 Git_Workflow       → Professional branching & collaboration
 ```
 
 ---
