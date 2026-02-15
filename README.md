@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/nithish687894">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%93+Nithishkumar+S;National+CTF+Finalist+%7C+Web+Exploitation+Specialist+%F0%9F%8F%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%93+Nithishkumar+S;+%7C+Web+Exploitation+Specialist+%F0%9F%8F%86" alt="Typing SVG" />
   </a>
 </p>
 
