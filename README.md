@@ -26,7 +26,7 @@
   Role       : Web Exploitation Specialist & CTF Player
   Level      : National CTF Finalist 🏆
   Focus      : Breaking Web Apps | Finding Vulns | Capturing Flags
-  Education  : Learning Full Stack Development (Java + Web)
+  Education  : Btech Cse cybersecurity 
   Location   : Tamil Nadu, India 🇮🇳
   Status     : Always Hacking 👾
 
