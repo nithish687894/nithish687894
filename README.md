@@ -1,6 +1,6 @@
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%93+Nithishkumar+S;Web+Exploitation+%7C+CTF+National+Player+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%93+Nithishkumar+S;Web+Exploitation+%7C+CTF+Player+%F0%9F%8F%86" alt="Typing SVG" />
 
 <br>
 
@@ -21,7 +21,7 @@
 
   Name       : Nithishkumar S
   Role       : Web Exploitation Player
-  Level      : CTF National Player 🏆
+  Level      : CTF Player 🏆
   Focus      : Breaking Web Apps | Finding Vulns | Capturing Flags
   Status     : Always Hacking 👾
 ```
@@ -38,7 +38,7 @@
 
 | 🏆 Achievement | 📋 Details |
 |:---:|:---|
-| 🥇 **National CTF Finalist** | Competed at the national level in Capture The Flag |
+| 🥇 **National CTF Player** | Competed at the national level in Capture The Flag |
 | 🌐 **Web Exploitation** | Specialized in web-based attack vectors |
 |                                              | 
 |                                               |
