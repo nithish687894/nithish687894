@@ -35,8 +35,11 @@
   "“Securing applications through responsible vulnerability research.”"
 ```
 
----
 
+🎯 Open to Internship Opportunities – Application Security | Pentesting | SOC
+
+
+---
 ## 🏴‍☠️ CTF Achievements & Recognition
 
 | 🏆 Achievement | 📋 Details |
