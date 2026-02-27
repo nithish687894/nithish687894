@@ -28,11 +28,11 @@
   Focus      : Breaking Web Apps | Finding Vulns | Capturing Flags
   Education  : Btech Cse cybersecurity 
   Location   : Tamil Nadu, India 🇮🇳
-  Status     : Always Hacking 👾
+  Status     : Continuous Learning & Security Research👾
 
 └─$ cat mission.txt
 
-  "Find the vulnerability before someone else does."
+  "“Securing applications through responsible vulnerability research.”"
 ```
 
 ---
@@ -129,14 +129,6 @@
 <a href="https://hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
 <a href="https://picoctf.org/"><img src="https://img.shields.io/badge/PicoCTF-000000?style=for-the-badge&logo=picoctf&logoColor=white"/></a>
 <a href="https://ctftime.org/"><img src="https://img.shields.io/badge/CTFtime-cd1c27?style=for-the-badge&logo=ctftime&logoColor=white"/></a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nithish687894&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
