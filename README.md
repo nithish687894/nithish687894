@@ -95,6 +95,14 @@
 </p>
 
 ---
+## 📑 Security Approach
+
+- Structured vulnerability assessment methodology
+- CVSS 3.1 risk scoring
+- Proof-of-Concept development
+- Clear remediation guidance
+- Report writing aligned with industry standards
+  
 
 ## 📈 Currently Learning & Building
 
