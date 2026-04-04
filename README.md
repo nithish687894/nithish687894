@@ -1,180 +1,77 @@
+<h1 align="center">Nithishkumar S</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=00ff88&height=200&section=header&text=Nithishkumar%20S&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Web%20Exploitation%20|%20CTF%20Player%20|%20Security%20Researcher&descSize=18&descAlignY=75&descColor=00ff88" width="100%"/>
+  Application Security · Penetration Testing · CTF Research<br/>
+  B.Tech Computer Science (Cybersecurity) — SRM Institute of Science and Technology, 2025–2029
 </p>
 
 <p align="center">
-  <a href="https://github.com/nithish687894">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%93+Nithishkumar+S;+%7C+Web+Exploitation+Specialist+%F0%9F%8F%86" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nithish687894"><img src="https://komarev.com/ghpvc/?username=nithish687894&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" alt="Profile Views"/></a>
-  <a href="https://github.com/nithish687894?tab=followers"><img src="https://img.shields.io/github/followers/nithish687894?style=for-the-badge&color=00ff88&labelColor=0d1117&logo=github" alt="Followers"/></a>
-  <a href="https://github.com/nithish687894?tab=repositories"><img src="https://img.shields.io/badge/Repos-13-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos"/></a>
+  <a href="https://tryhackme.com/p/nithish6878"><img src="https://img.shields.io/badge/TryHackMe-Global_Top_4%25-212C42?style=flat-square&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nithishkumar-s"><img src="https://img.shields.io/badge/LinkedIn-nithishkumar--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://nithish687894.github.io/nitx1sh.github.io/"><img src="https://img.shields.io/badge/Portfolio-nitx1sh-00897B?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🖥️ `> whoami`
+## About
 
-```
-┌──(nithish㉿kali)-[~]
-└─$ cat about.txt
+I'm a first-year cybersecurity student focused on web application security, API testing, and building offensive security tooling. I compete actively in CTFs, hold a global top 4% rank on TryHackMe, and completed all 37 challenges in the AWS Skills to Jobs CTF 2026 (SANS Institute).
 
-  Name       : Nithishkumar S
-  Role       : Web Exploitation Specialist & CTF Player
-  Level      : National CTF Finalist 🏆
-  Focus      : Breaking Web Apps | Finding Vulns | Capturing Flags
-  Education  : Btech Cse cybersecurity 
-  Location   : Tamil Nadu, India 🇮🇳
-  Status     : Continuous Learning & Security Research👾
-
-└─$ cat mission.txt
-
-  "“Securing applications through responsible vulnerability research.”"
-```
-
-
-🎯 Open to Internship Opportunities – Application Security | Pentesting | SOC
-
-
----
-## 🏴‍☠️ CTF Achievements & Recognition
-
-| 🏆 Achievement | 📋 Details |
-| --- | --- |
-| 🥇 **National CTF Finalist** | Competed and placed at the national level in Capture The Flag competitions |
-| 🌐 **Web Exploitation Specialist** | Specialized in web application security and attack vectors |
-| 🛡️ **Multi-Platform Player** | Active on TryHackMe, HackTheBox, PicoCTF, and CTFtime |
-| 🧰 **Tool Builder** | Created CTF Web Toolkit — automated vulnerability scanner |
-| 📚 **Knowledge Sharer** | Published Web CTF Cheatsheet for the security community |
+I'm currently seeking **part-time or remote internships** in application security, penetration testing, or SOC analysis.
 
 ---
 
-## ⚔️ Attack Surface — Skills & Arsenal
+## Highlights
 
-### 🌐 Web Exploitation
-
-<p>
-<img src="https://img.shields.io/badge/XSS-Cross_Site_Scripting-ff3333?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLi-SQL_Injection-cc0000?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSRF-Cross_Site_Request_Forgery-ff6600?style=for-the-badge&logo=firefox&logoColor=white"/>
-<img src="https://img.shields.io/badge/SSTI-Server_Side_Template_Injection-ff0066?style=for-the-badge&logo=jinja&logoColor=white"/>
-<img src="https://img.shields.io/badge/SSRF-Server_Side_Request_Forgery-cc3366?style=for-the-badge&logo=curl&logoColor=white"/>
-<img src="https://img.shields.io/badge/LFI%2FRFI-File_Inclusion-990033?style=for-the-badge&logo=files&logoColor=white"/>
-<img src="https://img.shields.io/badge/Auth_Bypass-Broken_Authentication-ff3366?style=for-the-badge&logo=keycdn&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-Token_Manipulation-cc00ff?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/IDOR-Insecure_Direct_Object_Ref-ff4444?style=for-the-badge&logo=target&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deserialization-Pickle%2FJava-ff0044?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=hackaday&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004682?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
-### 🧩 CTF Categories
-
-<p>
-<img src="https://img.shields.io/badge/🌐_Web-00ff88?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/🔐_Crypto-00ccff?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/🔍_Forensics-ff6600?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/🕵️_OSINT-ffcc00?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/⚙️_Reverse_Engineering-cc33ff?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/🔓_Pwn-ff0044?style=for-the-badge&logoColor=black"/>
-</p>
-
----
-## 📑 Security Approach
-
-- Structured vulnerability assessment methodology
-- CVSS 3.1 risk scoring
-- Proof-of-Concept development
-- Clear remediation guidance
-- Report writing aligned with industry standards
-  
-
-## 📈 Currently Learning & Building
-
-```
-┌──(nithish㉿kali)-[~/learning]
-└─$ ls -la
-
-  📂 Java_OOP           → Object-Oriented Programming with Java
-  📂 Advanced_WebSec    → Advanced Web Application Security
-  📂 CTF_Toolkit        → Building automated exploitation tools
-```
+| | |
+|---|---|
+| **AWS CTF 2026** (SANS Institute) | 37/37 challenges completed · 7,478 pts |
+| **Palo Alto Networks Virtual Intern** | Outstanding grade (90–100) · Jan–Mar 2026 |
+| **TryHackMe** | Global Top 4% · Rank #84,096 · 139 rooms · 17 badges |
+| **HACKQUEST 2K26** | Ranked 48th / 336 teams · Team ZeroDaySquad |
+| **promptshield** | Prompt injection detection tool for LLM applications |
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithish687894&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nithish687894&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=FF6633&currStreakLabel=00FF88&sideLabels=c9d1d9&dates=555570" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish687894&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="180"/>
-</p>
+**Exploit areas** — SQLi · XSS · SSTI · JWT algorithm confusion · Deserialization · SSRF · IDOR · LFI/RFI  
+**Tools** — Burp Suite · Nmap · SQLMap · OWASP ZAP · Metasploit · Wireshark · Hydra · Nikto  
+**Languages** — Python · Bash · C++ · Java  
+**Frameworks** — OWASP Top 10 · MITRE ATT&CK · NIST CSF  
+**Systems** — Kali Linux · Ubuntu · TCP/IP · DNS · HTTP/HTTPS
 
 ---
 
-## 🏴 CTF Platforms
+## Projects
 
-<p align="center">
-<a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-<a href="https://hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
-<a href="https://picoctf.org/"><img src="https://img.shields.io/badge/PicoCTF-000000?style=for-the-badge&logo=picoctf&logoColor=white"/></a>
-<a href="https://ctftime.org/"><img src="https://img.shields.io/badge/CTFtime-cd1c27?style=for-the-badge&logo=ctftime&logoColor=white"/></a>
-</p>
+### [promptshield](https://github.com/nithish687894/promptshield)
+Detects and blocks prompt injection attacks in LLM-based applications. Covers direct injection, jailbreak patterns, and role-override attempts.
+
+### [ctf-web-toolkit](https://github.com/nithish687894/ctf-web-toolkit)
+Python toolkit for automated web vulnerability detection in CTF environments. Covers XSS, SQLi, SSTI, directory traversal, and header analysis.
+
+### [Advanced-All-in-One-Web-Vulnerability-Scanner](https://github.com/nithish687894/Advanced-All-in-One-Web-Vulnerability-Scanner)
+Modular CLI scanner with port scanning, web vulnerability checks, and API security testing modules.
+
+### [WebReconX](https://github.com/nithish687894/WebReconX)
+Reconnaissance automation tool for web targets — subdomain enumeration, header inspection, and endpoint discovery.
+
+### [ESP32-AntiJamming-System](https://github.com/nithish687894/ESP32-AntiJamming-System)
+Hardware-level RF jamming detection using ESP32 with real-time frequency monitoring and alert output.
 
 ---
 
-## 📡 Activity Graph
+## Certifications
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithish687894&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00ff88&point=ff6633&area=true&area_color=00ff8830" width="100%"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-<a href="https://github.com/nithish687894"><img src="https://img.shields.io/badge/GitHub-nithish687894-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://nithish687894.github.io/nitx1sh.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
+- Google Cybersecurity Professional Certificate (9 courses) — Coursera, Feb 2026
+- API Penetration Testing — APIsec University, Oct 2025
+- AI in Cybersecurity Fundamentals — Palo Alto Networks, Feb 2026
+- Network Security Fundamentals — Palo Alto Networks, Feb 2026
+- Introduction to Cybersecurity — Cisco Networking Academy, Jun 2025
 
 ---
 
 <p align="center">
-
-```
-  ┌─────────────────────────────────────────────────────────────┐
-  │                                                             │
-  │   "Hack the planet. One vulnerability at a time." 🌍💻     │
-  │                                                             │
-  │      ⚡ National CTF Finalist | Web Exploiter ⚡            │
-  │                                                             │
-  └─────────────────────────────────────────────────────────────┘
-```
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nithish687894&show_icons=true&hide_border=true&hide=stars&count_private=true&title_color=00897B&icon_color=00897B&text_color=555&bg_color=ffffff00" height="150"/>
 </p>
