@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://tryhackme.com/p/nithish6878"><img src="https://img.shields.io/badge/TryHackMe-Global_Top_4%25-212C42?style=flat-square&logo=tryhackme&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nithishkumar-s-cyb687894"><img src="https://img.shields.io/badge/LinkedIn-nithishkumar--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://nithish687894.github.io/nitx1sh.github.io/"><img src="https://img.shields.io/badge/Portfolio-nitx1sh-00897B?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://nithish687894.github.io/"><img src="https://img.shields.io/badge/Portfolio-nitx1sh-00897B?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ---
