@@ -17,7 +17,7 @@
 
 I'm a first-year cybersecurity student focused on web application security, API testing, and building offensive security tooling. I compete actively in CTFs, hold a global top 4% rank on TryHackMe, and completed all 37 challenges in the AWS Skills to Jobs CTF 2026 (SANS Institute).
 
-I'm currently seeking **part-time or remote internships** in application security, penetration testing, or SOC analysis.
+I'm currently seeking **internships** in application security, penetration testing, or SOC analysis. 
 
 ---
 
