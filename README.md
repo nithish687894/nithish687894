@@ -27,7 +27,7 @@ I'm currently seeking **internships** in application security, penetration testi
 |---|---|
 | **AWS CTF 2026** (SANS Institute) | 37/37 challenges completed · 7,478 pts |
 | **Palo Alto Networks Virtual Intern** | Outstanding grade (90–100) · Jan–Mar 2026 |
-| **TryHackMe** | Global Top 4% · Rank #84,096 · 139 rooms · 17 badges |
+| **TryHackMe** | Global Top 4% · 139 rooms · 17 badges |
 | **HACKQUEST 2K26** | Ranked 48th / 336 teams · Team ZeroDaySquad |
 | **promptshield** | Prompt injection detection tool for LLM applications |
 
