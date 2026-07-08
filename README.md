@@ -19,7 +19,6 @@ I am a cybersecurity student focused on application security, API testing, web v
 
 My work combines security research with software engineering. Alongside Python-based security tools, I also build full-stack web applications with Next.js, TypeScript, Express, MongoDB, Redis, Socket.IO, and Sentry.
 
-I am actively looking for internships and entry-level opportunities in application security, web security, API security, SOC, security engineering, and cybersecurity research.
 
 ---
 
