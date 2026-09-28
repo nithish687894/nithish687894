@@ -9,6 +9,7 @@
   <a href="https://tryhackme.com/p/nithish6878"><img src="https://img.shields.io/badge/TryHackMe-Global_Top_4%25-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Global Top 4%"/></a>
   <a href="https://www.linkedin.com/in/nithishkumar-s-cyb687894"><img src="https://img.shields.io/badge/LinkedIn-Nithishkumar_S-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://nithish687894.github.io/"><img src="https://img.shields.io/badge/Portfolio-nithish687894.github.io-00897B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://srmnexus.app"><img src="https://img.shields.io/badge/SRM_Nexus-Live_App-6E56CF?style=flat-square&logo=googlechrome&logoColor=white" alt="SRM Nexus live app"/></a>
 </p>
 
 ---
@@ -48,6 +49,10 @@ My work combines security research with software engineering. Alongside Python-b
 
 ## Featured Projects
 
+### [SRM Nexus](https://github.com/nithish687894/srm-frontend) · [Live app](https://srmnexus.app)
+Independent student-built academic dashboard and PWA, built with Next.js, TypeScript, Express, MongoDB, Redis, Socket.IO, secure session handling, connector architecture, and production reliability tooling.
+
+
 ### [promptshield](https://github.com/nithish687894/promptshield)
 Prompt injection security scanner for LLM applications. Detects direct injection, jailbreak patterns, role override attempts, and suspicious prompt behavior.
 
@@ -59,9 +64,6 @@ Modular CLI vulnerability scanner with port scanning, web vulnerability checks, 
 
 ### [WebReconX](https://github.com/nithish687894/WebReconX)
 Web reconnaissance framework for headers, SSL inspection, tech fingerprinting, port scanning, DNS checks, subdomain discovery, and Wayback Machine analysis.
-
-### SRM Nexus
-Student-focused academic dashboard and PWA built with Next.js, TypeScript, Express, MongoDB, Redis, Socket.IO, secure session handling, connector architecture, and production reliability tooling.
 
 ---
 
